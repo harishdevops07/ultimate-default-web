@@ -6,3 +6,4 @@ Commit#4 during squash activity
 Commit extra for squash activity
 commit for testing1
 commit for testing2
+commit for testing 3
