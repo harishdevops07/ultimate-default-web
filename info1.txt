@@ -7,3 +7,7 @@ Commit extra for squash activity
 commit for testing1
 commit for testing2
 commit for testing 3
+Commit#5 during squash activity
+commit#6 during squash activity
+commit#7 during squash activity
+Commit#8 during squash activity
