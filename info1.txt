@@ -16,4 +16,8 @@ Commit#10 during squash activity from Branch SquashDemo
 Commit#11 during squash activity from Branch SquashDemo
 Commit#12 during squash activity from Branch SquashDemo
 Commit#13 during squash activity from Branch SquashDemo
+
+commit #21 during Cheery Picking Demo Activity from Branch CheeryPickDemo - commit 1
+commit #22 during Cheery Picking Demo Activity from Branch CheeryPickDemo - commit 2
+
 no more commits after this line
