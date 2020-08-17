@@ -16,3 +16,4 @@ Commit#10 during squash activity from Branch SquashDemo
 Commit#11 during squash activity from Branch SquashDemo
 Commit#12 during squash activity from Branch SquashDemo
 Commit#13 during squash activity from Branch SquashDemo
+no more commits after this line
